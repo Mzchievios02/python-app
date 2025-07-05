@@ -10,3 +10,7 @@ plugins:
 nav:
   - Overview:
       - Getting Startted: 'docs/index.md'
+  - Getting Started:
+      - Creating your Backstage App: 'getting-started/index.md'
+      - Configuring Backstage:
+          - Database: 'getting-started/config/database.md'
